@@ -1,0 +1,7 @@
+Word1
+Meaning 1
+Meaning 2
+Word2
+Meaning1
+Meaning2
+
